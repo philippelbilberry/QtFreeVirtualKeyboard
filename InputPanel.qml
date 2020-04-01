@@ -11,6 +11,7 @@ import FreeVirtualKeyboard 1.0
  */
 Item {
     id:root
+    property bool active: Qt.inputMethod.visible
     objectName: "inputPanel"
     width: parent.width
     height: width / 4
