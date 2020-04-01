@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>freevirtualkeyboard.json</file>
+    </qresource>
+</RCC>
